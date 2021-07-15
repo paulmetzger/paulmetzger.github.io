@@ -1,0 +1,54 @@
+html {
+  margin: 10px;
+}
+
+h3 {
+  display: inline;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+li {
+  padding: 4px 0px;
+}
+
+#main {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.logo {
+  align: right;
+}
+
+#contact_details {
+  float: left;
+}
+
+#profile_picture {
+  float: left;
+  margin-right: 1%;
+}
+
+#section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#name {
+  font-weight: bold;
+}
+
+#address {
+  margin-top: 20px;
+}
+
+.divider {
+  clear: both;
+}
+
+.no_bullet {
+  list-style-type: none;
+}
